@@ -1,1 +1,0 @@
-extract the project and run runSilverBar.bat or ./runSilverBar.sh

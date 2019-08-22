@@ -1,1 +1,0 @@
-# cs-test-silverbars
